@@ -1,9 +1,0 @@
-# Python 缓存
-__pycache__/
-*.pyc
-
-# PyCharm 配置
-.idea/
-
-# 大数据集不传
-mnist/MNIST/
